@@ -1,0 +1,9 @@
+[
+    {
+        "id": "veh2",
+        "name": "Honda CR-V",
+        "type": "SUV",
+        "price": 25000,
+        "image": "crv.jpg"
+    }
+]
